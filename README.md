@@ -1,4 +1,4 @@
-# RemillardTechSource
+# Remillard Tech Website Source
 The source code for the Remillard Tech website
 
 # What about NPM's?
